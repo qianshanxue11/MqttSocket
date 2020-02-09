@@ -1,0 +1,23 @@
+{
+  "name": "mqttsocket",
+  "version": "1.0.0",
+  "description": "connect mqtt server,and diaplay temp&hump,control remote relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/qianshanxue11/MqttSocket.git"
+  },
+  "keywords": [
+    "mqtt",
+    "socketio"
+  ],
+  "author": "gao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianshanxue11/MqttSocket/issues"
+  },
+  "homepage": "https://github.com/qianshanxue11/MqttSocket#readme"
+}
